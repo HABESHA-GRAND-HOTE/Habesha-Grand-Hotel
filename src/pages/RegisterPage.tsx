@@ -38,7 +38,7 @@ export const RegisterPage: React.FC = () => {
                 <CheckCircle2 className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-serif font-bold text-white mb-2">Membership Activated</h3>
-              <p className="text-xs text-slate-300 mb-6">Welcome to Luxora Privilege Club. Your 10% direct booking discount has been unlocked.</p>
+              <p className="text-xs text-slate-300 mb-6">Welcome to Habesha Grand Privilege Club. Your 10% direct booking discount has been unlocked.</p>
               <Link to="/" className="gold-button inline-block px-6 py-2.5 rounded-full text-xs font-bold uppercase">
                 Explore The Hotel
               </Link>

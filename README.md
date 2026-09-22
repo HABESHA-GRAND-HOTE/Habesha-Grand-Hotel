@@ -1,4 +1,4 @@
-# LUXORA Hotel & Resort — Luxury Hotel Management System
+# Habesha Grand Hotel — Luxury Hotel Management System
 
 An ultra-premium, modern, and responsive luxury hotel website and management system frontend built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, **React Router**, and **Lucide Icons**.
 
@@ -7,12 +7,12 @@ An ultra-premium, modern, and responsive luxury hotel website and management sys
 ## ✨ Features & Visual Highlights
 
 - **Cinematic Full-Screen Hero:** Immersive dusk visual ambiance with custom typography, glowing gold badges, and smooth scroll exploration.
-- **Floating Reservation Search Widget:** Interactive check-in/out date range picker, guests & suite counters, and promotional discount codes.
+- **Floating Reservation Search Widget:** Interactive check-in/out date range picker, guests & suite counters, and promotional discount codes (`HABESHA2026`).
 - **Welcome & Heritage Experience:** 2-column introduction highlighting 15+ years of five-star hospitality with statistics.
 - **Featured Rooms & Suites:** Real-time suite specifications (dimensions, bedding, capacity, prices, and amenities) with interactive modal details and image zooms.
 - **Gastronomy & Sommelier Dining:** Detailed culinary showcase and interactive *Chef's Signature Tasting Menu* modal (Starters, Mains, Desserts, Grand Cru Cellar).
 - **Curated Experiences:** Interactive cards for City & Heritage Tours, Wellness & Spa, Romantic Escapes, and Nature Expeditions.
-- **Special Offers & Privilege Club:** Promotional banner with exclusive perks and instant coupon code activation (`LUXORAEXTEND`).
+- **Special Offers & Privilege Club:** Promotional banner with exclusive perks and instant coupon code activation (`HABESHAEXTEND`).
 - **Interactive Asymmetric Gallery & Lightbox:** CSS Grid gallery categorized by Exterior, Lobby, Rooms, Restaurant, Pool, Spa, and Events with full-screen lightbox navigation.
 - **Full Booking Engine Flow:** Step-by-step suite reservation modal with tax calculation, price breakdown, lead guest details, and instant reference confirmation code generation.
 - **Responsive Navigation & Mobile Drawer:** Seamless navigation with scroll-driven glassmorphism transparency, desktop hover animations, and mobile drawer.
@@ -125,4 +125,4 @@ src/
 ---
 
 ## 📄 License
-© 2026 Luxora Hotel & Resort. All rights reserved.
+© 2026 Habesha Grand Hotel. All rights reserved.

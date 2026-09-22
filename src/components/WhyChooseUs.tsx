@@ -36,7 +36,7 @@ export const WhyChooseUs: React.FC = () => {
         
         {/* Section Heading */}
         <SectionHeader
-          label="THE LUXORA DISTINCTION"
+          label="THE HABESHA GRAND DISTINCTION"
           title="Why Discerning Travelers Choose Us"
           subtitle="A philosophy rooted in authentic human connection, understated elegance, and precision hospitality."
         />

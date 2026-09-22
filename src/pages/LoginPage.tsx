@@ -29,7 +29,7 @@ export const LoginPage: React.FC = () => {
               Member Sign In
             </h1>
             <p className="text-xs text-[#C9A227] tracking-widest uppercase font-semibold">
-              LUXORA PRIVILEGE CLUB
+              HABESHA GRAND PRIVILEGE CLUB
             </p>
           </div>
 
@@ -55,7 +55,7 @@ export const LoginPage: React.FC = () => {
                     required
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    placeholder="guest@luxora.com"
+                    placeholder="guest@habeshagrand.com"
                     className="w-full bg-[#071521] border border-slate-700 rounded-xl pl-10 pr-4 py-3 text-sm text-white focus:outline-none focus:border-[#C9A227]"
                   />
                 </div>
@@ -90,7 +90,7 @@ export const LoginPage: React.FC = () => {
               <div className="text-center pt-4 border-t border-white/10 text-xs text-slate-400">
                 <span>Not a member yet? </span>
                 <Link to="/register" className="text-[#E3C766] font-bold hover:underline">
-                  Join Luxora Privilege Club
+                  Join Habesha Grand Privilege Club
                 </Link>
               </div>
             </form>

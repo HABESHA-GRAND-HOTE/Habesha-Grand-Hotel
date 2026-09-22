@@ -65,13 +65,13 @@ export const Footer: React.FC = () => {
                 <Crown className="w-5 h-5 text-[#C9A227]" />
               </div>
               <div className="flex flex-col">
-                <span className="font-serif tracking-[0.25em] text-xl font-bold text-white">LUXORA</span>
+                <span className="font-serif tracking-[0.18em] text-lg font-bold text-white">HABESHA GRAND</span>
                 <span className="text-[9px] tracking-[0.35em] text-[#C9A227] uppercase">HOTEL &amp; RESORT</span>
               </div>
             </Link>
 
             <p className="text-sm text-slate-300 font-light leading-relaxed mb-6">
-              Exceptional hospitality. Unforgettable stays. Where classical grandeur and contemporary technology meet to redefine the art of luxury living.
+              Exceptional hospitality. Unforgettable stays. Where Ethiopian warmth and contemporary luxury meet to redefine the art of grand living.
             </p>
 
             {/* Newsletter Subscription */}
@@ -99,7 +99,7 @@ export const Footer: React.FC = () => {
               </form>
               {newsletterSubscribed && (
                 <p className="text-[11px] text-emerald-400 mt-2 flex items-center gap-1">
-                  <CheckCircle2 className="w-3.5 h-3.5" /> Thank you for subscribing to Luxora privileges.
+                  <CheckCircle2 className="w-3.5 h-3.5" /> Thank you for subscribing to Habesha Grand privileges.
                 </p>
               )}
             </div>
@@ -191,8 +191,8 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-[#C9A227] shrink-0" />
-                <a href="mailto:info@luxorahotel.com" className="hover:text-white transition-colors">
-                  info@luxorahotel.com
+                <a href="mailto:info@habeshagrandhotel.com" className="hover:text-white transition-colors">
+                  info@habeshagrandhotel.com
                 </a>
               </li>
             </ul>
@@ -251,7 +251,7 @@ export const Footer: React.FC = () => {
 
         {/* Bottom Copyright & Accreditation */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
-          <p>© 2026 Luxora Hotel &amp; Resort. All rights reserved.</p>
+          <p>© 2026 Habesha Grand Hotel. All rights reserved.</p>
           <div className="flex items-center gap-6">
             <span>Designed with World-Class Hospitality Standards</span>
             <span>•</span>

@@ -27,7 +27,7 @@ export const ContactPage: React.FC = () => {
             <span>24/7 DIPLOMATIC &amp; VIP INQUIRIES</span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-serif font-bold text-white mb-4">
-            Contact <span className="gold-gradient-text italic">Luxora</span>
+            Contact <span className="gold-gradient-text italic">Habesha Grand</span>
           </h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto font-light">
             Our concierge and guest relations ambassadors are standing by around the clock to assist your every request.
@@ -69,8 +69,8 @@ export const ContactPage: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs uppercase tracking-wider text-slate-400 font-bold">Electronic Mail</p>
-                  <p className="text-sm text-white font-medium">reservations@luxorahotel.com</p>
-                  <p className="text-xs text-slate-400">concierge@luxorahotel.com</p>
+                  <p className="text-sm text-white font-medium">reservations@habeshagrandhotel.com</p>
+                  <p className="text-xs text-slate-400">concierge@habeshagrandhotel.com</p>
                 </div>
               </div>
 

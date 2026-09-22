@@ -208,7 +208,7 @@ export const BookingWidget: React.FC<BookingWidgetProps> = ({ onSearch }) => {
               {showPromoInput && (
                 <input
                   type="text"
-                  placeholder="e.g. LUXORA2026"
+                  placeholder="e.g. HABESHA2026"
                   value={promoCode}
                   onChange={(e) => setPromoCode(e.target.value.toUpperCase())}
                   className="px-2.5 py-1 text-xs border border-slate-300 rounded-md focus:outline-none focus:border-[#C9A227]"

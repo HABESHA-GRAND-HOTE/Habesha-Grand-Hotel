@@ -30,7 +30,7 @@ export const testimonialsData: Testimonial[] = [
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80',
     rating: 5,
     date: 'January 2026',
-    quote: 'Luxora strikes that rare harmony between international world-class sophistication and warm, genuine human hospitality. The culinary experience at the Sommelier Table is truly unforgettable.',
+    quote: 'Habesha Grand Hotel strikes that rare harmony between international world-class sophistication and warm, genuine Ethiopian hospitality. The culinary experience at the Sommelier Table is truly unforgettable.',
     stayType: 'Executive Suite Stay',
   },
   {

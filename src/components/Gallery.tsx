@@ -44,7 +44,7 @@ export const Gallery: React.FC = () => {
         {/* Section Header */}
         <SectionHeader
           label="CURATED PERSPECTIVES"
-          title="Visual Moments of Luxora"
+          title="Visual Moments of Habesha Grand"
           subtitle="A glimpse into the architectural majesty, tranquil sanctuaries, and world-class atmosphere awaiting your visit."
         />
 

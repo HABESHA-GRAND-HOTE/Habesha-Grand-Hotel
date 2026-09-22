@@ -20,7 +20,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking, onExploreRooms }) => 
       <div className="absolute inset-0 z-0">
         <img
           src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=2000&q=85"
-          alt="Luxora Grand Resort & Palace at dusk"
+          alt="Habesha Grand Hotel & Resort at dusk"
           className="w-full h-full object-cover object-center scale-105"
         />
         {/* Layered luxury overlays for perfect legibility */}
@@ -36,8 +36,8 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking, onExploreRooms }) => 
           {/* Small Gold Badge Label */}
           <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-[#0B1F33]/80 border border-[#C9A227]/40 backdrop-blur-md mb-6 shadow-lg shadow-black/20">
             <Sparkles className="w-3.5 h-3.5 text-[#E3C766] animate-spin" style={{ animationDuration: '6s' }} />
-            <span className="text-xs uppercase tracking-[0.3em] font-semibold text-[#E3C766]">
-              WELCOME TO LUXORA
+            <span className="text-xs uppercase tracking-[0.25em] font-semibold text-[#E3C766]">
+              WELCOME TO HABESHA GRAND HOTEL
             </span>
           </div>
 

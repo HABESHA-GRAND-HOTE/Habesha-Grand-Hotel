@@ -13,19 +13,19 @@ export const OffersPage: React.FC = () => {
       title: 'Extended Stay Luxury Sanctuary',
       badge: 'Save 25%',
       desc: 'Reserve 3 or more consecutive nights and enjoy complimentary suite upgrade, daily breakfast, and $100 spa credit.',
-      code: 'LUXORAEXTEND',
+      code: 'HABESHAEXTEND',
     },
     {
       title: 'Romance & Skyline Package',
       badge: 'Champagne Included',
       desc: 'Includes chilled Dom Pérignon, bespoke rose petal bath ritual, candlelit 5-course dinner, and late check-out.',
-      code: 'LUXORAROMANCE',
+      code: 'HABESHAROMANCE',
     },
     {
       title: 'Diplomatic & Executive Package',
       badge: 'VIP Club Lounge',
       desc: 'Includes roundtrip luxury Mercedes S-Class airport transfer, unlimited club lounge access, and private boardroom hours.',
-      code: 'LUXORADIPLOMAT',
+      code: 'HABESHADIPLOMAT',
     },
   ];
 
@@ -43,7 +43,7 @@ export const OffersPage: React.FC = () => {
             Special <span className="gold-gradient-text italic">Offers</span>
           </h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto font-light">
-            Elevate your stay with curated seasonal packages and exclusive member direct booking privileges.
+            Elevate your stay with curated seasonal packages and exclusive member direct booking privileges at Habesha Grand Hotel.
           </p>
         </div>
       </div>

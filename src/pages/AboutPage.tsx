@@ -20,10 +20,10 @@ export const AboutPage: React.FC = () => {
             <span>HERITAGE &amp; VISION</span>
           </div>
           <h1 className="text-4xl sm:text-6xl font-serif font-bold text-white mb-4">
-            About <span className="gold-gradient-text italic">Luxora</span>
+            About <span className="gold-gradient-text italic">Habesha Grand</span>
           </h1>
           <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto font-light">
-            Founded with a passion for timeless sophistication, Luxora stands as a beacon of world-class hospitality in East Africa.
+            Founded with a passion for timeless sophistication, Habesha Grand Hotel stands as a beacon of world-class luxury hospitality in East Africa.
           </p>
         </div>
       </div>

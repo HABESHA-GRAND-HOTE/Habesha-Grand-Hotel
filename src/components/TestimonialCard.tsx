@@ -26,7 +26,7 @@ export const TestimonialsSection: React.FC = () => {
         <SectionHeader
           label="REAL GUEST EXPERIENCES"
           title="What Our Guests Say"
-          subtitle="Honest impressions from travelers, dignitaries, and global connoisseurs who have made Luxora their home away from home."
+          subtitle="Honest impressions from travelers, dignitaries, and global connoisseurs who have made Habesha Grand Hotel their home away from home."
         />
 
         {/* Desktop Grid (3 cards) & Mobile Carousel */}

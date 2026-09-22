@@ -20,7 +20,7 @@ export const WelcomeSection: React.FC = () => {
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-[#C9A227]/20 group">
                 <img
                   src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=1000&q=80"
-                  alt="Luxora Grand Lobby & Interior Experience"
+                  alt="Habesha Grand Hotel Lobby & Interior Experience"
                   className="w-full h-[450px] sm:h-[520px] object-cover object-center transition-transform duration-700 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#071521]/80 via-transparent to-transparent" />
@@ -54,7 +54,7 @@ export const WelcomeSection: React.FC = () => {
             <div className="inline-flex items-center gap-2 mb-4">
               <Sparkles className="w-4 h-4 text-[#C9A227]" />
               <span className="text-xs font-bold uppercase tracking-[0.25em] text-[#C9A227]">
-                THE LUXORA EXPERIENCE
+                THE HABESHA GRAND EXPERIENCE
               </span>
             </div>
 

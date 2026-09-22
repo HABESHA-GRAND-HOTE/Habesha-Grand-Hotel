@@ -24,7 +24,7 @@ export const DiningSection: React.FC<DiningSectionProps> = ({ onOpenMenuModal })
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-[#C9A227]/30 group">
                 <img
                   src="https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?auto=format&fit=crop&w=1000&q=80"
-                  alt="Luxora Michelin-Starred Culinary Dining Room"
+                  alt="Habesha Grand Hotel Michelin-Starred Culinary Dining Room"
                   className="w-full h-[460px] sm:h-[520px] object-cover object-center transition-transform duration-700 group-hover:scale-105"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#071521]/85 via-transparent to-transparent" />

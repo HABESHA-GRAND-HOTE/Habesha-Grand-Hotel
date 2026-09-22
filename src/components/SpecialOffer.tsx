@@ -22,7 +22,7 @@ export const SpecialOffer: React.FC<SpecialOfferProps> = ({ onClaimOffer }) => {
           <div className="absolute inset-0 z-0">
             <img
               src="https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1800&q=80"
-              alt="Luxora Luxury Resort Poolside & Sunset"
+              alt="Habesha Grand Hotel Poolside & Sunset"
               className="w-full h-full object-cover object-center scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-r from-[#071521]/95 via-[#071521]/85 to-[#071521]/70" />
@@ -48,7 +48,7 @@ export const SpecialOffer: React.FC<SpecialOfferProps> = ({ onClaimOffer }) => {
 
               {/* Description */}
               <p className="text-base sm:text-lg text-slate-300 font-light leading-relaxed mb-8 max-w-xl">
-                Enjoy exclusive benefits, extended luxury, and up to 25% savings when you book 3 or more consecutive nights at Luxora.
+                Enjoy exclusive benefits, extended luxury, and up to 25% savings when you book 3 or more consecutive nights at Habesha Grand Hotel.
               </p>
 
               {/* Benefits Checklist */}
@@ -80,7 +80,7 @@ export const SpecialOffer: React.FC<SpecialOfferProps> = ({ onClaimOffer }) => {
                 <div className="p-3 bg-[#071521] border border-dashed border-[#C9A227]/60 rounded-xl mb-6 flex items-center justify-between">
                   <div className="text-left">
                     <span className="text-[10px] text-slate-400 uppercase tracking-wider block">Promo Code</span>
-                    <span className="text-sm font-mono font-bold text-[#E3C766]">LUXORAEXTEND</span>
+                    <span className="text-sm font-mono font-bold text-[#E3C766]">HABESHAEXTEND</span>
                   </div>
                   <span className="text-[10px] text-[#C9A227] bg-[#C9A227]/10 px-2 py-1 rounded">
                     Applied Auto

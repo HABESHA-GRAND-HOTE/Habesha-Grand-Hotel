@@ -70,7 +70,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose, sel
               <Crown className="w-5 h-5 text-[#E3C766]" />
             </div>
             <div>
-              <h3 className="text-lg font-serif font-bold text-white">LUXORA RESERVATIONS</h3>
+              <h3 className="text-lg font-serif font-bold text-white">HABESHA GRAND RESERVATIONS</h3>
               <p className="text-xs text-[#C9A227] tracking-wider uppercase">Direct Booking Engine</p>
             </div>
           </div>
@@ -199,7 +199,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose, sel
                       <label className="block text-[11px] text-slate-300 mb-1">Email Address</label>
                       <input
                         type="email"
-                        placeholder="alexander@luxora.com"
+                        placeholder="alexander@habeshagrand.com"
                         value={guestEmail}
                         onChange={(e) => setGuestEmail(e.target.value)}
                         required
@@ -274,7 +274,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose, sel
                     <span>Confirm Reservation</span>
                   </button>
                   <p className="text-[10px] text-center text-slate-400 mt-2.5">
-                    No immediate charge • Pay upon arrival at Luxora
+                    No immediate charge • Pay upon arrival at Habesha Grand Hotel
                   </p>
                 </div>
               </div>
@@ -300,7 +300,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({ isOpen, onClose, sel
             </p>
 
             <div className="bg-[#0B1F33] max-w-md mx-auto p-4 rounded-xl border border-[#C9A227]/30 text-xs text-slate-300 mb-8 space-y-1">
-              <p>🏨 <strong>Property:</strong> Luxora Hotel &amp; Resort, Addis Ababa</p>
+              <p>🏨 <strong>Property:</strong> Habesha Grand Hotel, Addis Ababa</p>
               <p>🛎️ <strong>Total Payable at Check-In:</strong> ${grandTotal} USD</p>
               <p>🚗 <strong>VIP Concierge Contact:</strong> +251 11 667 9000</p>
             </div>

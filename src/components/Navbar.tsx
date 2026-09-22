@@ -55,15 +55,15 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
             <Link
               to="/"
               className="flex items-center gap-3 group focus:outline-none focus:ring-2 focus:ring-[#C9A227] rounded-lg p-1"
-              aria-label="Luxora Hotel & Resort Home"
+              aria-label="Habesha Grand Hotel Home"
             >
               <div className="relative w-10 h-10 rounded-full border border-[#C9A227]/50 flex items-center justify-center bg-[#0B1F33]/80 group-hover:border-[#C9A227] group-hover:shadow-[0_0_15px_rgba(201,162,39,0.4)] transition-all duration-300">
                 <Crown className="w-5 h-5 text-[#C9A227] transition-transform duration-300 group-hover:scale-110" />
                 <div className="absolute inset-0 rounded-full border border-[#E3C766]/30 animate-pulse pointer-events-none" />
               </div>
               <div className="flex flex-col">
-                <span className="font-serif tracking-[0.25em] text-xl font-bold text-white group-hover:text-[#E3C766] transition-colors leading-none">
-                  LUXORA
+                <span className="font-serif tracking-[0.18em] text-lg sm:text-xl font-bold text-white group-hover:text-[#E3C766] transition-colors leading-none">
+                  HABESHA GRAND
                 </span>
                 <span className="text-[9px] tracking-[0.35em] text-[#C9A227] uppercase font-medium mt-1">
                   HOTEL &amp; RESORT
@@ -161,7 +161,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
                   <Crown className="w-4 h-4 text-[#C9A227]" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="font-serif tracking-[0.2em] text-lg font-bold text-white">LUXORA</span>
+                  <span className="font-serif tracking-[0.15em] text-base font-bold text-white">HABESHA GRAND</span>
                   <span className="text-[8px] tracking-[0.3em] text-[#C9A227]">HOTEL &amp; RESORT</span>
                 </div>
               </div>
@@ -212,7 +212,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
                 setMobileMenuOpen(false);
                 if (onOpenBooking) onOpenBooking();
               }}
-              className="gold-button w-full py-3.5 rounded-xl text-sm font-semibold tracking-wider flex items-center justify-center gap-2 shadow-lg"
+              className="gold-button w-full py-3.5 rounded-xl text-sm font-semibold tracking-wider flex items-center justify-center gap-2 shadow-lg cursor-pointer"
             >
               <Calendar className="w-4 h-4" />
               <span>Book Your Stay</span>
